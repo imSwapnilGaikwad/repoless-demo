@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/repoless-eds:/",
+    "/content/repoless-eds/:/",
     "/content/repoless-eds/configuration:/.helix/config.json",
     "/content/repoless-eds/metadata:/metadata.json"
   ],
